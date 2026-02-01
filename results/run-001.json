@@ -4,14 +4,15 @@
   },
   "results": [
     {
-      "pass_rate": 0.215,
-      "time_used": 48.6,
-      "max_score": 1.0
-    },
-    {
-      "pass_rate": 0.215,
-      "time_used": 47.2,
-      "max_score": 1.0
+      "domain": "legal",
+      "a2_score": 0.215,
+      "safety": 0.420,
+      "security": 0.150,
+      "reliability": 0.0,
+      "compliance": 0.0,
+      "num_tasks": 24,
+      "defense_rate": 0.90,
+      "time_used": 48.6
     }
   ]
 }
